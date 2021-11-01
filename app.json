@@ -11,7 +11,7 @@
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
-    "اسم بوتك": {
+    "ALIVE_NAME": {
       "description": "give your name",
       "value": ""
     },
