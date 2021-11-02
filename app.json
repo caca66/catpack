@@ -13,23 +13,23 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "𝐀 𝐋 𝐎 𝐍 𝐄 ♪"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "3080783"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "1c5d190c75cceefe11ed5bf0609e32ad"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": ""
+      "value": "1BJWap1wBu3TL0Ha1uh_tuL5POcOwup7oOQmckT-pN0EhQODtOkP3cSVfTrzSRKEuH3CZXR122Wg_xP4OqPdqg5AJRb5vncBwDWUe2ZfIldN-LnHB0VbFoE6yrxeJ7Ul-NxfojaxT4c5rCt0oPykQArcQ5YegRNkD-BBi8ziQ1hfW3Jx2b4Sk4saEAk1G1n8GJlFgVzdmoHeL2l-poX7ZLmcPiLNQoG4nxFsGyJOoUFpcOmBhZnZijQSAHhzrPjOC4oXAJUm9nQ8C4yMKglMvJQHY1PKKKTktaYWjTS5WyquiUeJWWiLAJbANF42MRx9AYrcHcRN0mFny8IfB-t9Y51iqlVnx_tU="
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "1846257825:AAHsDJq4fDyxRXvGoD_j1miT7AHQiFhVCQI"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "badcat",
+      "value": "https://github.com/caca66/catuserbot",
       "required": false
     }
   },
