@@ -1,5 +1,5 @@
 {
-  "name": "alone",
+  "name": "Catuserbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
@@ -13,23 +13,23 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "𝐀 𝐋 𝐎 𝐍 𝐄 ♪"
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "3080783"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "1c5d190c75cceefe11ed5bf0609e32ad"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": "1BJWap1wBu3TL0Ha1uh_tuL5POcOwup7oOQmckT-pN0EhQODtOkP3cSVfTrzSRKEuH3CZXR122Wg_xP4OqPdqg5AJRb5vncBwDWUe2ZfIldN-LnHB0VbFoE6yrxeJ7Ul-NxfojaxT4c5rCt0oPykQArcQ5YegRNkD-BBi8ziQ1hfW3Jx2b4Sk4saEAk1G1n8GJlFgVzdmoHeL2l-poX7ZLmcPiLNQoG4nxFsGyJOoUFpcOmBhZnZijQSAHhzrPjOC4oXAJUm9nQ8C4yMKglMvJQHY1PKKKTktaYWjTS5WyquiUeJWWiLAJbANF42MRx9AYrcHcRN0mFny8IfB-t9Y51iqlVnx_tU="
+      "value": ""
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1846257825:AAHsDJq4fDyxRXvGoD_j1miT7AHQiFhVCQI"
+      "value": ""
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -53,7 +53,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": "Asia/Riyadh",
       "required": false
     },
     "UPSTREAM_REPO": {
